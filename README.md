@@ -41,29 +41,6 @@ The data cleaning process involved the following steps:
 6. **Removing Periods**:
    - Removed periods from all columns to maintain consistency across the dataset.
 
-## Instructions to Set Up the Repository
-
-1. **Initialize the Repository on GitHub**:
-   - Go to your GitHub account, create a new repository, and name it (e.g., `Carbon_Literacy_Analysis`).
-   - Add a description and select "Add a README file".
-
-2. **Clone the Repository**:
-   - Clone the repository to your local machine:
-     ```bash
-     git clone https://github.com/yourusername/Carbon_Literacy_Analysis.git
-     ```
-
-3. **Add Files to the Repository**:
-   - Copy `pph.ipynb`, `carbon.png`, and `final_dataframe.csv` to your cloned repository folder.
-
-4. **Commit and Push Files**:
-   - Use the following commands to upload your files to GitHub:
-     ```bash
-     git add .
-     git commit -m "Initial commit with data cleaning notebook, Power BI dashboard, and cleaned data"
-     git push origin main
-     ```
-
 ## Viewing the Power BI Dashboard
 
 The Power BI dashboard provides a comprehensive view of the project's key insights. It visualizes metrics such as:
@@ -72,11 +49,3 @@ The Power BI dashboard provides a comprehensive view of the project's key insigh
 - Revenue impact from sustainability initiatives.
   
 ![carbon](https://github.com/user-attachments/assets/7fdab0cb-f77e-4715-9350-b1dc34d3adc6)
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to reach out if you have any questions or suggestions.
