@@ -13,7 +13,7 @@ The **data cleaning and transformation** was performed using Python, while the *
 
 ## Repository Contents
 
-- **`carbon_literacy.ipynb`**: Jupyter notebook containing the Python code for data cleaning and transformation.
+- **`carbon_literacy.py`**: Jupyter notebook containing the Python code for data cleaning and transformation.
 - **`carbon.png`**: Power BI dashboard visualizing the insights from the cleaned data.
 - **`final_dataframe.csv`**: Cleaned dataset in CSV format, ready for analysis and visualization.
 
